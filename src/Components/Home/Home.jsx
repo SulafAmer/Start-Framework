@@ -1,6 +1,6 @@
 import React from 'react'
 import avatarImg from '../../assets/avataaars.svg'
-import homeCss from '../Home/home.module.css'
+import homeCss from '../Home/Home.module.css'
 
 export default function Home() {
   return <>

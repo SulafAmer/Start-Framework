@@ -26,7 +26,7 @@ export default function Contact() {
 <div className="mb-4">
   <input type="password" className="form-control input" id="exampleFormControlInput1" placeholder="userPassword" />
 </div>
-<button className='text-white py-2 px-3 rounded-2'>send Message</button>
+<button className={`text-white py-2 px-3 ${contactCss.button}  rounded-2`}>send Message</button>
 </div>
 </div>
 </div>
