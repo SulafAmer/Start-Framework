@@ -1,0 +1,12 @@
+.firstFooterDiv{
+    background-color: #2C3E50;
+}
+.iconBorder{
+    height:30px;
+    width: 30px;
+    border: white solid 1px;
+    border-radius: 50%;
+}
+.secondFooterDiv{
+background-color:#1A252F;
+}

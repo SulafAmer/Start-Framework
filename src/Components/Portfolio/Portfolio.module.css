@@ -1,0 +1,9 @@
+.plusDiv{
+    background-color: #29B197;
+    opacity: 0;
+    transition: all 0.5s;
+}
+.mainPlus:hover .plusDiv{
+   opacity:95%;
+   cursor: pointer;
+}

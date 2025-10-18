@@ -1,0 +1,30 @@
+.homeLines{
+    width: 80px;
+    height: 4px;
+    background-color: white;
+}
+ .navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+    background-color: #1ABC9C;
+    border-radius: 10px;
+ }
+
+.portfolioLines{
+     width: 80px;
+    height: 4px;
+    background-color: #2C3E50;
+}
+.portfolioHeader{
+    color: #2C3E50;
+}
+.portfolioStar{
+     color: #2C3E50;
+}
+.input.form-control:focus{
+    box-shadow: none;
+    border-color:rgb(212, 212, 212);
+}
+.input.form-control{
+ border-top: none;
+ border-left: none;
+ border-right: none;
+}
